@@ -1,4 +1,5 @@
 ﻿
+[System.Serializable]
 public class BannerAdSettingEntity
 {
     public string id;
